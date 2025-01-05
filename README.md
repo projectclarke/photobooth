@@ -45,7 +45,7 @@ cd /home/pi
 ```
 clone this repository:
 ```
-git clone https://github.com/ronbal/photobooth
+git clone [https://github.com/projectclarke/photoboot
 ```
 change to the photobooth directory:
 ```
